@@ -1,0 +1,7 @@
+Code Quality Check: 
+==================
+{'pep8': ['/home/nsarfaraz/work/rabbitMQ_learning/RabbitMQ/Exchange/recieve_logs.py:31:18: W292 no newline at end of file'],
+ 'pyflakes': [],
+ 'ze_nolock_rowlock': [],
+ 'ze_sql_injection': []}
+==================
